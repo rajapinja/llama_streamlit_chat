@@ -1,1 +1,3 @@
-.secrete.toml/
+# Ignore .streamlit/secret.toml file
+.streamlit/secret.toml
+
